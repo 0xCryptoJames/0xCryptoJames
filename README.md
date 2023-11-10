@@ -1,4 +1,4 @@
-# Hello, I'm James Kuo!
+# Hello, I'm James K.!
 
 I'm a Solidity developer with a passion for blockchain technology.
 
