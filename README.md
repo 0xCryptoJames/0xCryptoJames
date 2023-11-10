@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hello, I'm James Kuo!
 
-<!--
-**0xCryptoJames/0xCryptoJames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Solidity developer with a passion for blockchain technology.
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- Solidity
+- Ethereum
+![Ethereum](https://img.shields.io/badge/-Ethereum-333333?style=flat&logo=ethereum)
+- Foundry
+- Webflow Basics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 My Projects
+- [GamerBoom](https://github.com/Rinku-link) - a Web3 gaming social hub built upon infinite mainstream games.
+GamerBoom is a Web3 gaming social hub that integrates seamlessly with a multitude of mainstream games. Our current product matrix primarily consists of two parts: **GamerBoom Client** and **Rinku Protocol**. 
+
+The **GamerBoom Client** is tailored to provide traditional gamers with effortless access to the Web3 realm, allowing them to earn rewards while gaming without disrupting their gaming experience. In contrast, the **Rinku Protocol** is a decentralized gaming social protocol based on a bonding curve mechanism. It is designed to incentivize the creation of user-generated content (UGC) and enhance gaming social interactions within the community.
+
+## 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true)
+
+## 📫 How to reach me:
+NY
+
