@@ -1,9 +1,5 @@
-# Hello, I'm James K.!
-
 ## 📈 GitHub Stats
 [![James K.'s GitHub stats](https://github-readme-stats.vercel.app/api?username=0xCryptoJames&show_icons=true&theme=vue-dark)](https://github.com/0xCryptoJames/github-readme-stats)
-
-I'm a Solidity developer with a passion for blockchain technology.
 
 ## 🛠 Skills
 - Solidity
