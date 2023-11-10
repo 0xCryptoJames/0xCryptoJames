@@ -16,7 +16,7 @@ GamerBoom is a Web3 gaming social hub that integrates seamlessly with a multitud
 The **GamerBoom Client** is tailored to provide traditional gamers with effortless access to the Web3 realm, allowing them to earn rewards while gaming without disrupting their gaming experience. In contrast, the **Rinku Protocol** is a decentralized gaming social protocol based on a bonding curve mechanism. It is designed to incentivize the creation of user-generated content (UGC) and enhance gaming social interactions within the community.
 
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true)
+[![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xCryptoJames&show_icons=true&theme=radical)](https://github.com/0xCryptoJames/github-readme-stats)
 
 ## 📫 How to reach me:
 NY
